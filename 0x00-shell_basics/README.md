@@ -1,2 +1,1 @@
-Write ascript that changes the working directory to the user's home directory
-
+Script that creates a directory named my_first_directory in the /tmp/ directory
