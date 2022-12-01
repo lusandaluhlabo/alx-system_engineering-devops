@@ -11,3 +11,4 @@
 10: Script that sets the mode of the file hello the same as olleh's mode
 11: Script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 12: Script that creates directory called my_dir with permissions 751 in the working directory
+13: Script that changes the group owner to school for the file hello
