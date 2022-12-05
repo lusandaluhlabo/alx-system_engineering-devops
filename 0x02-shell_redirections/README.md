@@ -17,3 +17,4 @@
 16: Lines that contain pattern "root" and 3 lines after them in the file /etc/passwd
 17: Display all lines in the file /etc/passwd that do not contain the pattern "bin"
 18: Display all lines of the file /etc/ssh/sshd_config
+19: Replace all characters A and c from input to Z and e respectively
