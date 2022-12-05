@@ -21,3 +21,4 @@
 20: Script that removes all letters c and C from input
 21: Script that reverse its input
 22: Script that displays all users and their home directories, sorted by users
+23: Command that finds all empty files and directories 
