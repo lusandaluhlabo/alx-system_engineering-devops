@@ -19,3 +19,4 @@
 18: Display all lines of the file /etc/ssh/sshd_config
 19: Replace all characters A and c from input to Z and e respectively
 20: Script that removes all letters c and C from input
+21: Script that reverse its input
