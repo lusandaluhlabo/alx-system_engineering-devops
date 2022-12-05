@@ -10,6 +10,7 @@
 9: Script that duplicates the last line of the file iacta
 <<<<<<< HEAD
 10: Script that deletes all the regular files (not directories) with a .js extension
+11: Script that counts the number of directories and sub-directories in the current directory
 11: 
 =======
 >>>>>>> 0cfc19208309bb54ee3cffd0d92c771d58b7fa04

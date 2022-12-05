@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type d nindepth 1 | wc -1
