@@ -8,5 +8,8 @@
 7: Script that creates a file named exactly '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)' containing text Best School
 8: Script that writes into the file ls_cwd_command the result of the command ls -ls.
 9: Script that duplicates the last line of the file iacta
+<<<<<<< HEAD
 10: Script that deletes all the regular files (not directories) with a .js extension
 11: 
+=======
+>>>>>>> 0cfc19208309bb54ee3cffd0d92c771d58b7fa04
