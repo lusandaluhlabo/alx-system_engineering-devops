@@ -26,4 +26,4 @@
 23: Command that finds all empty files and directories
 24: Script that lists all the files with a .gif extension
 25: Script that decodes acrostics that use the first letter of each line 
->>>>>>> 5915ccbf505d215c822600d97d05d91a4204ea22
+26: Write a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests
