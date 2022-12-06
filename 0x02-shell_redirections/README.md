@@ -22,4 +22,5 @@
 21: Script that reverse its input
 22: Script that displays all users and their home directories, sorted by users
 23: Command that finds all empty files and directories
-24: Script that lists all the files with a .gif extension 
+24: Script that lists all the files with a .gif extension
+25: Script that decodes acrostics that use the first letter of each line 
